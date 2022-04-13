@@ -1,0 +1,51 @@
+42,,,,,,,,,,
+Sample Type,File Name,Sample ID,Path,Instrument Method,Process Method,Position,Inj Vol,Sample Name,ionMode,goodData
+Blank,mtab_NSFrules_check_041222_01,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A1,5,MQ Blank neg (HSST3#13 04.12.22 probe 3),neg,0
+Blank,mtab_NSFrules_check_041222_02,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A1,5,mystery run,pos,0
+Unknown,mtab_NSFrules_check_041222_03,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A2,5,mtab mix 1-7 1000ng/ml neg (no mix 8),neg,0
+Unknown,mtab_NSFrules_check_041222_04,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A2,5,mtab mix 1-7 1000ng/ml pos (no mix 8),pos,0
+Unknown,mtab_NSFrules_check_041222_05,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A3,5,mtab mix 8 500ng/ml neg (no mix 8),neg,0
+Unknown,mtab_NSFrules_check_041222_06,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A3,5,mtab mix 8 500ng/ml pos (no mix 8),pos,0
+Unknown,mtab_NSFrules_check_041222_07,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A1,5,MQ Blank pos,pos,1
+Unknown,mtab_NSFrules_check_041222_08,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled condition pos,pos,0
+Unknown,mtab_NSFrules_check_041222_09,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled condition pos,pos,0
+Unknown,mtab_NSFrules_check_041222_10,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled condition pos,pos,0
+Unknown,mtab_NSFrules_check_041222_11,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled condition pos,pos,0
+Unknown,mtab_NSFrules_check_041222_12,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled condition pos,pos,0
+Unknown,mtab_NSFrules_check_041222_13,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled pos,pos,1
+Unknown,mtab_NSFrules_check_041222_14,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A5,5,filter 30 tricho VI-I colonies 2 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_15,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A6,5,filter 20 tricho VI-I colonies 2 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_16,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A7,5,filter 20 tricho VI-I colonies 3 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_17,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A8,5,filter 30 tricho VI-I colonies 1 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_18,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled pos,pos,1
+Unknown,mtab_NSFrules_check_041222_19,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A9,5,filter 10 tricho VI-I colonies 1 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_20,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B1,5,filter 30 tricho VI-I colonies pos,pos,1
+Unknown,mtab_NSFrules_check_041222_21,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B2,5,filter 20 tricho VI-I colonies 1 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_22,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled pos,pos,1
+Unknown,mtab_NSFrules_check_041222_23,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B3,5,filter pooled with spike mix 1-8 pos,pos,1
+Unknown,mtab_NSFrules_check_041222_24,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B4,5,filtrate pooled condition pos,pos,0
+Unknown,mtab_NSFrules_check_041222_25,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B4,5,filtrate pooled pos,pos,0
+Unknown,mtab_NSFrules_check_041222_26,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B5,5,filtrate tricho VI-I collection 2 pos,pos,0
+Unknown,mtab_NSFrules_check_041222_27,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B6,5,filtrate tricho VI-I 30 colony pos,pos,0
+Unknown,mtab_NSFrules_check_041222_28,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B4,5,filtrate pooled pos,pos,0
+Unknown,mtab_NSFrules_check_041222_29,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:B7,5,filtrate pooled with spike mix 1-8 pos,pos,0
+Unknown,mtab_NSFrules_check_041222_30,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled condition neg,neg,0
+Unknown,mtab_NSFrules_check_041222_31,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled neg,neg,1
+Unknown,mtab_NSFrules_check_041222_32,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A5,5,filter 30 tricho VI-I colonies 2 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_33,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A6,5,filter 20 tricho VI-I colonies 2 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_34,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A7,5,filter 20 tricho VI-I colonies 3 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_35,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A8,5,filter 30 tricho VI-I colonies 1 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_36,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled neg,neg,1
+Unknown,mtab_NSFrules_check_041222_37,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A9,5,filter 10 tricho VI-I colonies 1 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_38,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B1,5,filter 30 tricho VI-I colonies neg,neg,1
+Unknown,mtab_NSFrules_check_041222_39,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B2,5,filter 20 tricho VI-I colonies 1 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_40,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A4,5,filter pooled neg,neg,1
+Unknown,mtab_NSFrules_check_041222_41,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B3,5,filter pooled with spike mix 1-8 neg,neg,1
+Unknown,mtab_NSFrules_check_041222_42,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B4,5,filtrate pooled condition neg,neg,0
+Unknown,mtab_NSFrules_check_041222_43,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B4,5,filtrate pooled neg,neg,0
+Unknown,mtab_NSFrules_check_041222_44,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B5,5,filtrate tricho VI-I collection 2 neg,neg,0
+Unknown,mtab_NSFrules_check_041222_45,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B6,5,filtrate tricho VI-I 30 colony neg,neg,0
+Unknown,mtab_NSFrules_check_041222_46,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B4,5,filtrate pooled neg,neg,0
+Unknown,mtab_NSFrules_check_041222_47,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:B7,5,filtrate pooled with spike mix 1-8 neg,neg,0
+Blank,mtab_NSFrules_check_041222_48,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_neg_HCD_OT_062018_noIC_MS2_7p5k,,R:A1,5,MQ Blank neg,neg,1
+Blank,mtab_NSFrules_check_041222_49,R:A1,D:\Kujawinski\2022_0412 NSF_Rules_checkBiomass,C:\Xcalibur\methods\Training\UPLC_pos_HCD_OT_062018_noIC_MS2_7p5k,,R:A1,5,MQ Blank pos,pos,1
