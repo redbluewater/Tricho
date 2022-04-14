@@ -9,7 +9,7 @@
 #SBATCH --output=/vortexfs1/home/klongnecker/Tricho/logfiles_dir/xcms2.out
 #SBATCH --error=/vortexfs1/home/klongnecker/Tricho/logfiles_dir/xcms2.error
 
-dir="$HOME/Trichho"
+dir="$HOME/Tricho"
 cd "$dir"
 
 in_dir="$dir/output_dir/xcms1"
