@@ -2,7 +2,7 @@
 Tricho project for Rules project
 
 **11 October 2023**\
-Update to transfer to _organization_ KujawinskiLaboratory. All prior edits as _user_ KujawinskiLaboratory were Krista Longnecker, whose GitHub name is now @redbluewater
+All prior edits as _user_ KujawinskiLaboratory were Krista Longnecker, whose GitHub name is now @redbluewater
 
 **13 April 2022**\
 Krista Longnecker\
